@@ -1,0 +1,12 @@
+[submodule "modules/Robot"]
+	path = modules/Robot
+	url = https://github.com/Yu-Laboratory/euROBIN-Robot
+	branch = main
+[submodule "modules/Arm"]
+	path = modules/Arm
+	url = https://github.com/Yu-Laboratory/euROBIN-Arm
+	branch = main
+[submodule "modules/Perception"]
+	path = modules/Perception
+	url = https://github.com/Yu-Laboratory/euROBIN-Perception
+	branch = main
